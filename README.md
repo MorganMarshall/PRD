@@ -2,7 +2,7 @@
 
 ![PRD](https://img.shields.io/badge/Document-Requirements-blue?style=flat-square) ![Markdown](https://img.shields.io/badge/Format-Markdown-green?style=flat-square)
 
-A ready-to-use **Product Requirements Document (PRD) template** boilerplate for any project—perfect for small apps, prototypes, or quick product planning. Keep your team aligned and your ideas organized.
+A ready-to-use **Product Requirements Document (PRD) template** boilerplate for any project. Perfect for small apps, prototypes, or quick product planning. Keep your team aligned and your ideas organized.
 
 ---
 
