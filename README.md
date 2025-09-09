@@ -1,4 +1,4 @@
-# 📝 PRD.md - The Premeir Product Requirements Template
+# 📝 PRD.md - The Premier Product Requirements Template
 
 ![PRD](https://img.shields.io/badge/Document-Requirements-blue?style=flat-square) ![Markdown](https://img.shields.io/badge/Format-Markdown-green?style=flat-square)
 
